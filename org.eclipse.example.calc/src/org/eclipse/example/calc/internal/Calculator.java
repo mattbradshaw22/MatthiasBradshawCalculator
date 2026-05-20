@@ -21,6 +21,7 @@ import org.eclipse.example.calc.internal.operations.Divide; // import divide cla
 import org.eclipse.example.calc.internal.operations.Multiply; // import multiply class
 import org.eclipse.example.calc.internal.operations.Power; // import power class
 
+
 public class Calculator {
 
 	private TextProvider textProvider;
@@ -46,6 +47,9 @@ public class Calculator {
 		new Divide();  // added divide functionality
 		new Multiply(); // added multiply functionality
 		new Power(); // added power functionality
+		new Multiply(); // added multiply functionality
+		
+
 	}
 
 	// fixed: textProvider value may be null or empty String
