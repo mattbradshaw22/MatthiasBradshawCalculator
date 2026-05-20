@@ -47,8 +47,6 @@ public class Calculator {
 		new Divide();  // added divide functionality
 		new Multiply(); // added multiply functionality
 		new Power(); // added power functionality
-		new Multiply(); // added multiply functionality
-		
 
 	}
 
