@@ -20,5 +20,5 @@ public class Multiply extends AbstractOperation implements BinaryOperation {
 	
 }
 
-// aditional change test
+// additional change test
 
