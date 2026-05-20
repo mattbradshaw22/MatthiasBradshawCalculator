@@ -18,10 +18,7 @@ import org.eclipse.example.calc.internal.operations.Minus;
 import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 import org.eclipse.example.calc.internal.operations.Divide; // import divide class
-<<<<<<< HEAD
-=======
 import org.eclipse.example.calc.internal.operations.Multiply; // import multiply class
->>>>>>> refs/heads/add-multiply-functionality
 import org.eclipse.example.calc.internal.operations.Power; // import power class
 
 public class Calculator {
@@ -47,10 +44,7 @@ public class Calculator {
 		new Plus();
 		new Square();
 		new Divide();  // added divide functionality
-<<<<<<< HEAD
-=======
 		new Multiply(); // added multiply functionality
->>>>>>> refs/heads/add-multiply-functionality
 		new Power(); // added power functionality
 	}
 
